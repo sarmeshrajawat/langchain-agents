@@ -21,5 +21,3 @@ The project uses:
 
 - **Simple Agent Demo**  
   Shows how to invoke an agent with system + human messages.
-
-## 📂 Project Structure
